@@ -7,7 +7,7 @@ import React from 'react'
 // }
 
 const Totalizers = () => {
-    // const { id, name, value } = totalizer
+    // const { id, name, value } = total
     // console.log("soy el totalizer:", id, name, value)
 
     return (
